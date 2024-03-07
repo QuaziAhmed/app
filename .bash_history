@@ -10,3 +10,8 @@ git reset --hard HEAD
 git reset --hard
 git reset --hard main
 git clean -fd
+git checkout main
+git status
+git reset
+git status
+git clean -fdx
